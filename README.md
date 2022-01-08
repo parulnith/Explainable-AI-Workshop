@@ -30,10 +30,6 @@ All exercises and labs are provided as Jupyter notebooks—interactive documents
 
 ---
 
-## This live event is for you because…
-
--   You’re a data science professional who wants to understand how a machine learning model makes predictions.
--   You’re concerned about the ethical and moral implications of machine learning.
 
 ### Prerequisites
 
@@ -50,51 +46,4 @@ All exercises and labs are provided as Jupyter notebooks—interactive documents
 -   Watch  [_Opening the Black Box: Explainable AI (XAI)_](https://learning.oreilly.com/videos/strata-data-conference/9781492050568/9781492050568-video325089/)  (conference session)
 
 ---
-
-## Schedule
-
-The timeframes are only estimates and may vary according to how the class is progressing.
-
-**Getting started (10 minutes)**
-
--   Presentation: The motivation for explaining opaque and complex models
--   Group discussion: Common examples of bias in machine learning
--   Q&A
-
-**Understanding the basics (25 minutes)**
-
--   Presentation: Interpretability versus explainability; differentiating between opaque and clear models; local versus global explanations
--   Q&A
-
-**Permutation importance (30 minutes)**
-
--   Presentation: Permutation importance fundamentals; intuiting permutation importance Jupyter notebook: Explain Model Predictions and Visualize the Results Using the Permutation Importance Technique
--   Q&A
--   Break
-
-**Partial dependence plots (30 minutes)**
-
--   Presentation: Partial dependence plot concepts and variants
--   Jupyter notebook: Explain and Visualize Model Predictions Using Partial Dependence Plots
--   Q&A
-
-**SHAP: Shapley additive explanations and summary plots (30 minutes)**
-
--   Presentation: The importance of SHAP values
--   Jupyter notebook: Implement the SHAP Technique in Python
--   Q&A
--   Break
-
-**LIME: Local interpretable model-agnostic explanations (30 minutes)**
-
--   Presentation: LIME fundamentals; intuiting LIME values
--   Jupyter notebook: Use and Implement LIME for Tabular, Text, and Image Data in Python
--   Q&A
-
-**Counterfactual explanations (20 minutes)**
-
--   Presentation: Counterfactuals fundamentals; intuiting counterfactual explanations
--   Jupyter notebook: Assess the Importance of a Model Prediction Using Counterfactual Explanations in Python
-
-**Wrap-up and Q&A (5 minutes)**
 
