@@ -10,31 +10,7 @@ AI models are making predictions that affect people’s lives, so ensuring that 
 
 Join expert Parul Prandey to get the lowdown on commonly used techniques like SHAP values, LIME, partial dependence plots, and more that can help you explain the inexplicable in these models and ensure responsible machine learning. You’ll gain an understanding of the intuition behind the techniques and learn how to implement them in Python. Using case studies, you’ll discover how to extract the most important features and values of a model’s predictions to discover why a particular person has been denied a bank loan or is more susceptible to a heart attack. Finally, you’ll examine the vulnerabilities and shortcomings of these methods and discuss the road ahead.
 
-## Hands-on learning with Jupyter notebooks
 
-All exercises and labs are provided as Jupyter notebooks—interactive documents that combine live code, equations, visualizations, and narrative text. There's nothing to install or configure; just click a link and get started! And you can revisit them anytime after class ends to practice and refine your skills.
-
-## What you’ll learn and how you can apply it
-**By the end of this live online course, you’ll understand:**
-
-* The fundamental concept behind interpretability and explainability
-* An overview of various explanability techniques
-* How to interpret opaque machine learning models using post hoc techniques in Python
-* The challenges and strengths associated with each technique
-
-**And you’ll be able to:**
-
-* Intuit explanations for the predictions of machine learning models
-* Implement techniques like permutation importance, partial dependence plots, SHAP, and LIME
-* Interpret and visualize the output of any machine learning model
-
----
-
-
-### Prerequisites
-
--   No preparation or local installation needed—all exercises will be provided using  [Jupyter notebooks](https://learning.oreilly.com/interactive/?classification=jupyter-notebook)
--   Familiarity with Python and machine learning libraries
 
 **Recommended preparation:**
 
